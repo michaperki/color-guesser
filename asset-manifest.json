@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/color-guesser/static/css/main.b015c2db.css",
+    "main.js": "/color-guesser/static/js/main.3ef00a02.js",
+    "static/js/787.fef87ae9.chunk.js": "/color-guesser/static/js/787.fef87ae9.chunk.js",
+    "index.html": "/color-guesser/index.html",
+    "main.b015c2db.css.map": "/color-guesser/static/css/main.b015c2db.css.map",
+    "main.3ef00a02.js.map": "/color-guesser/static/js/main.3ef00a02.js.map",
+    "787.fef87ae9.chunk.js.map": "/color-guesser/static/js/787.fef87ae9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b015c2db.css",
+    "static/js/main.3ef00a02.js"
+  ]
+}
